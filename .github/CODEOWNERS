@@ -1,0 +1,14 @@
+# По умолчанию
+* @kseniammheeva-spec
+
+# Модули (Вариант 15)
+/students/ @kseniammheeva-spec
+/grades/ @kseniammheeva-spec
+/homework/ @kseniammheeva-spec
+/schedule/ @kseniammheeva-spec
+
+# Документация
+/docs/ @kseniammheeva-spec
+
+# CI
+/.github/ @kseniammheeva-spec

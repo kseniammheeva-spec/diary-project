@@ -1,5 +1,7 @@
 """Фикстуры для тестов."""
+
 import pytest
+
 from app import app as flask_app
 
 

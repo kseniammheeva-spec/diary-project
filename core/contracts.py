@@ -1,4 +1,5 @@
 """Контракты между модулями."""
+
 from typing import Protocol
 
 

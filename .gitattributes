@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.py text
+*.md text
+*.sh text eol=lf
+*.yml text eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.sqlite3 binary
+*.puml linguist-language=PlantUML
